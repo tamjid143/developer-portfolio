@@ -11,8 +11,9 @@ h1 {
     color: goldenrod;
 }
 
-section {
+.flexible-container {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
